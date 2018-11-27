@@ -1,5 +1,5 @@
 # mini-todo-nodejs-app
-Demo Todo NodeJS App
+Demo Todo NodeJS App (NodeJS, Express, Mongoose, MongoDB)
 
 mongoDB instance is in mLab service. (mongodb://test:test12@ds119024.mlab.com:19024/nodetest)
 
